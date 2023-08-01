@@ -1,0 +1,32 @@
+
+p{
+    text-align: center;
+    font-size: 14px;
+    color:#0096c7; 
+}
+
+
+.all{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    width: 100vw;
+}
+.h2Home{
+    color:#0096c7;  ;
+text-align: center;
+height: 5px;
+font-size: 34px;
+
+}
+h3{
+    margin-left: 30px;
+    color:#0096c7;  ;
+}
+.welcome{
+   display: flex;
+   flex-direction: column;
+
+}
